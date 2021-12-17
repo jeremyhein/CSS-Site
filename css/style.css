@@ -1,0 +1,125 @@
+ body {
+   margin: 0;
+   text-align: center;
+ }
+
+ h1 {
+   color: #66BFBF;
+   font-size: 5.625rem;
+   margin: 50px auto 0 auto;
+   font-family: 'Merriweather', serif;
+ }
+
+ h2 {
+   color: #66BFBF;
+   font-size: 2.5rem;
+   font-family: 'Montserret', sans-serif;
+   font-weight: normal;
+ }
+
+ h3 {
+   color: #11999E;
+   font-size: 1.5rem;
+   font-family: 'Montserret', sans-serif;
+ }
+
+ .top-container {
+   background-color: #B5DEFF;
+   padding-top: 120px;
+ }
+
+ .pro {
+   text-decoration: underline;
+ }
+
+ .bottom-cloud {
+   position: absolute;
+   left: 500px;
+   top: 340px;
+ }
+
+ .top-cloud {
+   position: absolute;
+   right: 500px;
+   top: 100px
+ }
+ .profile p {
+   width: 50%;
+   display: inline-block;
+   line-height: 2;
+   margin-bottom: 40px;
+ }
+.skill-header {
+  margin-bottom: 0;
+}
+
+ .skill-row {
+   margin:100px auto 100px auto;
+   width: 50%;
+   text-align: left;
+   line-height: 2;
+
+
+ }
+
+ .photo{
+   float: right;
+
+ }
+
+ .computer {
+   float: left;
+ }
+
+ hr{
+   clear: right;
+
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 5px;
+   width: 90px;
+  border-color: #B5DEFF;
+
+ }
+ .btn {
+   display: inline-block;
+   border-radius: 4px;
+   background-color: #B5DEFF;
+   padding: 13px 22px;
+   margin-bottom: 30px;
+   color: white;
+   text-decoration: none;
+   margin-top: 10px;
+    }
+
+.middle-container {
+  margin: 50px auto;
+}
+
+.contact-me p{
+  margin: 10px auto 80px auto;
+}
+.bottom-container {
+  background-color: #B5DEFF;
+  padding: 60px;
+  position: relative;
+}
+.bottom-container p{
+  margin: 0;
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 1.25rem;
+
+
+}
+
+
+.footer-link {
+  padding: 0 20px;
+  text-decoration: none;
+  color: #11999E;
+  font-size: 25px;
+}
